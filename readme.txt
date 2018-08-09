@@ -27,5 +27,9 @@ yes or no
 11
 12
 13
-hello and world
+<<<<<<< HEAD
+hello & world
+=======
+hello & world
+>>>>>>> sub
 
