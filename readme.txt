@@ -32,6 +32,5 @@ hello & world
 =======
 hello & world
 >>>>>>> sub
-修复bug成功
 
-修复bug2成功
+
